@@ -1,0 +1,12 @@
+D:\c#\WeatherStation\WeatherStation\Utils\bin\Release\net6.0\Utils.deps.json
+D:\c#\WeatherStation\WeatherStation\Utils\bin\Release\net6.0\Utils.dll
+D:\c#\WeatherStation\WeatherStation\Utils\bin\Release\net6.0\Utils.pdb
+D:\c#\WeatherStation\WeatherStation\Utils\obj\Release\net6.0\Utils.csproj.AssemblyReference.cache
+D:\c#\WeatherStation\WeatherStation\Utils\obj\Release\net6.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\WeatherStation\WeatherStation\Utils\obj\Release\net6.0\Utils.AssemblyInfoInputs.cache
+D:\c#\WeatherStation\WeatherStation\Utils\obj\Release\net6.0\Utils.AssemblyInfo.cs
+D:\c#\WeatherStation\WeatherStation\Utils\obj\Release\net6.0\Utils.csproj.CoreCompileInputs.cache
+D:\c#\WeatherStation\WeatherStation\Utils\obj\Release\net6.0\Utils.dll
+D:\c#\WeatherStation\WeatherStation\Utils\obj\Release\net6.0\refint\Utils.dll
+D:\c#\WeatherStation\WeatherStation\Utils\obj\Release\net6.0\Utils.pdb
+D:\c#\WeatherStation\WeatherStation\Utils\obj\Release\net6.0\ref\Utils.dll

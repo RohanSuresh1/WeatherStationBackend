@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Qpyo49fbbvK4u18e94qM3D6PM8xJjn/T73h6KrrwXMc=",
+  "Source": "WeatherStationAPI",
+  "BasePath": "_content/WeatherStationAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

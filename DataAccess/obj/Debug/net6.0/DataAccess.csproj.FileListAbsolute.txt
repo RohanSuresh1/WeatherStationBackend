@@ -1,0 +1,15 @@
+D:\c#\WeatherStation\WeatherStation\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\c#\WeatherStation\WeatherStation\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\c#\WeatherStation\WeatherStation\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\c#\WeatherStation\WeatherStation\DataAccess\bin\Debug\net6.0\Utils.dll
+D:\c#\WeatherStation\WeatherStation\DataAccess\bin\Debug\net6.0\Utils.pdb
+D:\c#\WeatherStation\WeatherStation\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\c#\WeatherStation\WeatherStation\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\WeatherStation\WeatherStation\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\c#\WeatherStation\WeatherStation\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\c#\WeatherStation\WeatherStation\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\c#\WeatherStation\WeatherStation\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\c#\WeatherStation\WeatherStation\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\c#\WeatherStation\WeatherStation\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\c#\WeatherStation\WeatherStation\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\c#\WeatherStation\WeatherStation\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
